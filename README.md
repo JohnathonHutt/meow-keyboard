@@ -6,4 +6,5 @@ This keyboard was inspired by Ben Vallack and his 18 key unibody board (which th
 
 Big thanks to kilipan (https://github.com/kilipan) who was kind enough to design this PCB for me, I just added the artwork.
 
+![Meow Front](./images/meow-front.png0
 
