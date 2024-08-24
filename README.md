@@ -1,6 +1,6 @@
 # Meow Keyboard
 
-*An 18-key unibody keyboard*
+An 18-key unibody keyboard
 
 This keyboard was inspired by Ben Vallack and his 18 key unibody board (which this is basically just a clone of).
 
